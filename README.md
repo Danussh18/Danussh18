@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/danussh-garlapati-550a3019b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/danussh-garlapati-550a3019b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danussh18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/danussh-garlapati-550a3019b" height="30" width="40" /></a>
 <a href="https://fb.com/danussh garlapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danussh garlapati" height="30" width="40" /></a>
 <a href="https://instagram.com/danussh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danussh18" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/danussh181818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/danussh181818" height="30" width="40" /></a>
